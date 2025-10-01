@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+env/
+
+# Training outputs
+runs/
+__pycache__/
+*.pyc
+
+# Data (optional - if dataset is large)
+data/weapon_detection/images/train/
+data/weapon_detection/images/val/
+data/weapon_detection/labels/train/
+data/weapon_detection/labels/val/
+
+# System files
+.DS_Store
+Thumbs.db

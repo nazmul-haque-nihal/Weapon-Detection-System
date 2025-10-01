@@ -1,0 +1,4 @@
+train: ../data/yolo_weapon/images/train
+val: ../data/yolo_weapon/images/val
+nc: 2
+names: ['knife', 'pistol']
