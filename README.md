@@ -1,6 +1,7 @@
 # Advanced Multi-Class Weapon Detection System
 <img width="646" height="579" alt="weapon2" src="https://github.com/user-attachments/assets/76cabd3c-d3d9-43af-bf7e-ce10ad2afc1e" />
 <img width="644" height="579" alt="weapon5" src="https://github.com/user-attachments/assets/0bd9e998-946d-4387-97b1-db7986a44e28" />
+<img width="646" height="575" alt="weapon3" src="https://github.com/user-attachments/assets/5c3b3730-ad4d-44ea-9ce7-0b6b60d888fe" />
 
 
 ## ✨ Features
